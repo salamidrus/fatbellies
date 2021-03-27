@@ -1,1 +1,3 @@
 # fatbellies
+
+Using PostgreSQL, Express
